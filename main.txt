@@ -1,2 +1,8 @@
-line12
+
 change
+line 1 edited
+line 2 edited
+line 3 edited (changed)
+line 4 edited
+line 5 edited
+line 6 edited (changed from pycharm)

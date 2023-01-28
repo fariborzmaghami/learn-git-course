@@ -1,5 +1,6 @@
-
+line12
 change
+<<<<<<< HEAD
 line 1 edited
 line 2 edited
 line 3 edited (changed)
@@ -17,3 +18,5 @@ line 13
 line 14
 line 15
 
+=======
+>>>>>>> db4d13a2032d100c45c986af293d36ed4d88d851
